@@ -1,0 +1,7 @@
+C:\Users\Ketan\source\repos\DelegatesTestt\DelegatesTestt\bin\Debug\DelegatesTestt.exe.config
+C:\Users\Ketan\source\repos\DelegatesTestt\DelegatesTestt\bin\Debug\DelegatesTestt.exe
+C:\Users\Ketan\source\repos\DelegatesTestt\DelegatesTestt\bin\Debug\DelegatesTestt.pdb
+C:\Users\Ketan\source\repos\DelegatesTestt\DelegatesTestt\obj\Debug\DelegatesTestt.csproj.AssemblyReference.cache
+C:\Users\Ketan\source\repos\DelegatesTestt\DelegatesTestt\obj\Debug\DelegatesTestt.csproj.CoreCompileInputs.cache
+C:\Users\Ketan\source\repos\DelegatesTestt\DelegatesTestt\obj\Debug\DelegatesTestt.exe
+C:\Users\Ketan\source\repos\DelegatesTestt\DelegatesTestt\obj\Debug\DelegatesTestt.pdb
